@@ -1,7 +1,8 @@
 #  [My LeetCode solutions.](https://leetcode.com/problemset/all/)
 
-> **Note** <br>
 > 🔗 [My LeetCode profile](https://leetcode.com/aillos/) <br>
+
+> **Note** <br>
 > Solutions are listed only by date of completion, due to solving problems in random order.
 
 | Problem | No. | Solution | Date
