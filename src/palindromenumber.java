@@ -17,5 +17,6 @@ public class palindromenumber {
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
         System.out.println(isPalindrome(num));
+        sc.close();
     }
 }
