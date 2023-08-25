@@ -11,3 +11,7 @@
 | [FizzBuzz](https://leetcode.com/problems/fizz-buzz/) | 412. | [Java](https://github.com/aillos/leetcode/blob/master/src/fizzbuzz.java) | | May 23, 2023
 | [Two Sum](https://leetcode.com/problems/two-sum/) | 1. | [Java](https://github.com/aillos/leetcode/blob/master/src/twosum.java) | | May 25, 2023
 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 9. | [Java](https://github.com/aillos/leetcode/blob/master/src/palindromenumber.java) | | May 26, 2023
+| [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | 1351. | [Java](https://github.com/aillos/leetcode/blob/master/src/countnegnumssortedmatrix.java) | Binary Search | Aug 22, 2023
+| [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | 2089. | [Java](https://github.com/aillos/leetcode/blob/master/src/findtargetindicesaftersortingarray.java) | Binary Search | Aug 22, 2023
+| [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) | 2529. | [Java](https://github.com/aillos/leetcode/blob/master/src/maxcountofposandnegint.java) | Binary Search | Aug 22, 2023
+| [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | 1337. | [Java](https://github.com/aillos/leetcode/blob/master/src/thekweakestrowsinamatrix.java) | Binary Search | Aug 24, 2023
