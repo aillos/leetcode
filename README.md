@@ -17,3 +17,4 @@
 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | 349. | [Java](https://github.com/aillos/leetcode/blob/master/src/intersectionoftwoarrays.java) | Binary Search | Aug 23, 2023
 | [Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/) | 2389 | [Java](https://github.com/aillos/leetcode/blob/master/src/longestsubseqwithlimsum.java) | Binary Search | Aug 23, 2023
 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | 1337. | [Java](https://github.com/aillos/leetcode/blob/master/src/thekweakestrowsinamatrix.java) | Binary Search | Aug 24, 2023
+| [Reverse Integer]() | 7. | [Java]() | Jul 03. 2023
